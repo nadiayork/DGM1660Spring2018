@@ -1,0 +1,10 @@
+GitHub = Cloud storage on amazon servers.  
+GitKraken = Local interface 
+
+Repo = place to hold stuff = Container in the cloud. 
+Fork = a split from the source = Split from the source project.
+Clone = copy source = Duplicate from source.
+Pull = bring something in = Transfer from the cloud to local.
+Push = move something away = Transfer from local to the cloud.
+Stage = prep = Prepare for action.
+Commit = submit to someone else = finished
