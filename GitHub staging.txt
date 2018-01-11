@@ -1,0 +1,1 @@
+You can submit changes or files into your repo via GitHub.com and bypass GitKraken this works on ANY computer. 
