@@ -2,3 +2,4 @@ You can submit/upload files into your repo via GitHub.com and bypass GitKraken t
 
 So if you save your documents to your google drive and use it to upload into GitHub.com the theory is you will always have your stuff with a back up.
 
+The theory is even without internet access I would still have stuff saved to my device and could still work on it. 
