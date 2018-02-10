@@ -1,6 +1,6 @@
 //Maya ASCII 2017 scene
 //Name: robot.ma
-//Last modified: Sat, Feb 10, 2018 04:01:19 PM
+//Last modified: Sat, Feb 10, 2018 04:04:44 PM
 //Codeset: 1252
 requires maya "2017";
 currentUnit -l centimeter -a degree -t film;
