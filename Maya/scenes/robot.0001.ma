@@ -1,6 +1,6 @@
 //Maya ASCII 2017 scene
-//Name: robot.ma
-//Last modified: Mon, Feb 12, 2018 10:17:55 PM
+//Name: robot.0001.ma
+//Last modified: Mon, Feb 12, 2018 10:18:02 PM
 //Codeset: 1252
 requires maya "2017";
 currentUnit -l centimeter -a degree -t film;
@@ -13,8 +13,8 @@ fileInfo "license" "student";
 createNode transform -s -n "persp";
 	rename -uid "3ADA7941-46D7-CF2E-6B0B-12AC16FE5D93";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" 5.7920567087322787 2.5027667825140529 32.184453129203561 ;
-	setAttr ".r" -type "double3" -3.3383527296010844 6.1999999999973676 -2.4994275868977139e-017 ;
+	setAttr ".t" -type "double3" 20.891211517200784 1.4848282739452783 26.553906921319793 ;
+	setAttr ".r" -type "double3" -1.5383527296010968 34.999999999997399 6.0667817707762857e-017 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "98EE66E6-4D4C-18B4-034F-92BCC816F7A1";
 	setAttr -k off ".v" no;
@@ -33057,4 +33057,4 @@ connectAttr "robot:initialShadingGroup1.msg" "robot:materialInfo1.m";
 connectAttr "robot:initialShadingGroup.pa" ":renderPartition.st" -na;
 connectAttr "robot:initialShadingGroup1.msg" ":defaultShaderList1.s" -na;
 connectAttr "defaultRenderLayer.msg" ":defaultRenderingList1.r" -na;
-// End of robot.ma
+// End of robot.0001.ma
